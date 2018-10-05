@@ -1,0 +1,15 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Olá. Ajudar você eu posso?"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

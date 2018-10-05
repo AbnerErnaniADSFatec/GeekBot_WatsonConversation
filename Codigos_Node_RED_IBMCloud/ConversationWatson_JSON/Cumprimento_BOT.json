@@ -1,0 +1,15 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Olá, jovem padawan!"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "sequential"
+      }
+    ]
+  }
+}

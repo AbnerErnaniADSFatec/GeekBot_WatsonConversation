@@ -1,0 +1,27 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Vários filmes pra você eu posso sugerir como: https://www.themoviedb.org/movie/10681-wall-e?language=pt-BR#"
+          },
+          {
+            "text": "Vários filmes pra você eu posso sugerir como: https://www.themoviedb.org/movie/260513-the-incredibles-2?language=pt-BR#"
+          },
+          {
+            "text": "Vários filmes pra você eu posso sugerir como: https://www.themoviedb.org/movie/523777-next-gen?language=pt-BR#"
+          },
+          {
+            "text": "Vários filmes pra você eu posso sugerir como: https://www.themoviedb.org/movie/400155-hotel-transylvania-3?language=pt-BR#"
+          },
+          {
+            "text": "Vários filmes pra você eu posso sugerir como: https://www.themoviedb.org/movie/381719-peter-rabbit?language=pt-BR#"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

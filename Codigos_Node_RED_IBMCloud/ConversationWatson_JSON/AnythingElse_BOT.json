@@ -1,0 +1,15 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Refazer a pergunta você deve."
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}

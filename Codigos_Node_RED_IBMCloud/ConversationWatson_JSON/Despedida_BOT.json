@@ -1,0 +1,18 @@
+{
+  "output": {
+    "generic": [
+      {
+        "values": [
+          {
+            "text": "Que a força esteja com você! ;)"
+          },
+          {
+            "text": "Lembre-se: 42 é a resposta!"
+          }
+        ],
+        "response_type": "text",
+        "selection_policy": "random"
+      }
+    ]
+  }
+}
